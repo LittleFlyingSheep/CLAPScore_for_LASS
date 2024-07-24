@@ -32,12 +32,14 @@ The evaluation process is in the `main.py`. Please replace the `text_queries` an
 
 ## Citation
 
+```
 @article{xiao2024CLAPScore,
   title={A Reference-free Metric for Language-Queried Audio Source Separation using Contrastive Language-Audio Pretraining},
   author={Xiao, Feiyang and Guan, Jian and Zhu, Qiaoxi and Liu, Xubo and Wang, Wenbo and Qi, Shuhan and Zhang, Kejia and Sun, Jianyuan and Wang, Wenwu},
   journal={arXiv preprint arXiv:2407.04936},
   year={2024}
 }
+```
 
 ## License
 
