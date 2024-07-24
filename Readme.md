@@ -39,4 +39,6 @@ The evaluation process is in the `main.py`. Please replace the `text_queries` an
   year={2024}
 }
 
-## 
+## License
+
+This project is released under the CC BY-NC-ND 4.0 license.
