@@ -8,8 +8,8 @@ from dataset import AudioTextDataset4CLAP, get_dataloader
 
 def CLAPScore_Calculator(
     sampling_rate, text_queries, audio_dir,
-    save_dir="./ATS_results",
-    csv_filename="ATS_scores",
+    save_dir="./CLAPScore_results",
+    csv_filename="CLAPScore_scores",
     pretrained_checkpoint="checkpoint/music_speech_audioset_epoch_15_esc_89.98.pt"
 ):
     dataset = AudioTextDataset4CLAP(sampling_rate=sampling_rate, text_queries=text_queries, audio_dir=audio_dir)
