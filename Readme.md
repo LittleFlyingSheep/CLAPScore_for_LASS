@@ -1,6 +1,6 @@
 # CLAPScore for language-queried audio source separation
 
-This is the implementation of the paper [A Reference-free Metric for Language-Queried Audio Source Separation using Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2407.04936), which proposes the CLAPScore metric for the language-queried audio source separation.
+This is the implementation of the DCASE 2024 Workshop paper [A Reference-free Metric for Language-Queried Audio Source Separation using Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2407.04936), which proposes the CLAPScore metric for the language-queried audio source separation.
 
 ## Format of Evaluated Data
 
